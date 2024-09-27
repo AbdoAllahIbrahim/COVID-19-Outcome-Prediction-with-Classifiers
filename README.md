@@ -65,7 +65,3 @@ To run this project, follow these steps:
 ## Conclusion
 
 SVM and Decision Trees were the top-performing classifiers, with SVM being the most reliable due to its resistance to overfitting. KNN and Logistic Regression also performed adequately, while Naive Bayes was not suitable for this problem.
-
-## License
-
-This project is licensed under the MIT License.
